@@ -8,9 +8,7 @@
 * cnn + lstm 을 활용하여 모델 구조를 만들고 test를 진행함
 * EDA시 title len에 대한 변수를 활용예정이였으나, 현재까지는 정확도에 좋은 영향을 주지 못함
   (향후 변수로 활용 가능 할 것이라고 판단됨)
-* 결과
- - model_test_score(loss) : 0.424
- - model_test_score(accuracy)( : 0.918
+* 결과 (loss:0.424, acc:0.918)
     ==============================
     
                   precision    recall  f1-score   support
