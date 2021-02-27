@@ -9,10 +9,10 @@
 * EDA시 title len에 대한 변수를 활용예정이였으나, 현재까지는 정확도에 좋은 영향을 주지 못함
   (향후 변수로 활용 가능 할 것이라고 판단됨)
 * 결과
-** model_test_score(loss) : 0.42441055178642273
-** model_test_score(accuracy)( : 0.9180707931518555
-    
+ - model_test_score(loss) : 0.424
+ - model_test_score(accuracy)( : 0.918
     ==============================
+    
                   precision    recall  f1-score   support
 
                0       0.92      0.91      0.91       912
@@ -33,9 +33,9 @@
               15       0.73      0.80      0.76        10
               16       0.90      1.00      0.95        18
 
-        accuracy                           0.92      4748
-       macro avg       0.82      0.84      0.83      4748
-    weighted avg       0.92      0.92      0.92      4748
+        accuracy                            0.92      4748
+        macro avg       0.82      0.84      0.83      4748
+        weighted avg    0.92      0.92      0.92      4748
     ==============================
     
 ## 02-02_bert
