@@ -41,6 +41,7 @@
 ## 02-02_bertbased_model.ipynb
 * bert-base-multilingual-cased모델을 활용, 뒷단의 레이어를 일부 추가, 수정 후 test를 진행함
 * 결과 (loss:0.410, acc:0.8901)
+
               precision    recall  f1-score   support
 
            0       0.83      0.92      0.87       816
