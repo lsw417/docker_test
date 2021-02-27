@@ -2,7 +2,7 @@
 
 ## 01_EDA.ipynb
 * text EDA 진행 (text len 설정을 위해)
-** 글자단위, 띄어쓰기단위, BertTokenizer 단위로 진행함
+* 글자단위, 띄어쓰기단위, BertTokenizer 단위로 진행함
 
 ## 02-01_Cnnbased_model.ipynb
 * cnn + lstm 을 활용하여 모델 구조를 만들고 test를 진행함
