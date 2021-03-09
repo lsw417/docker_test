@@ -1,4 +1,3 @@
-# [뱅크샐러드] MLE Problem
 
 ## 01_EDA.ipynb
 * text EDA 진행 (text len 설정을 위해)
